@@ -1,4 +1,4 @@
-public class Main {
+public class MainLampada {
     public static void main(String[] args) {
         Lampada lampada = new Lampada();
         System.out.println("A lâmpada está acesa? " + lampada.isAcesa());
